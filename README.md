@@ -2,7 +2,9 @@
 
 Perkenalkan nama saya **Karan**.<br>
 
-Saya seorang **Desktop dan Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang mahasiswa di Universitas Mikroskil<br>
+
+Saya juga seorang **Desktop dan Web Developer**<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/karan-b63a7a256) ku ya.
 
